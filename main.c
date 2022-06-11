@@ -10,7 +10,7 @@
 int main()
 {
 	printf("Welcome to Skill-Lync Elevator\n");
-	initial();
+	initial();//function for initial print
 	idle();
 
 }
